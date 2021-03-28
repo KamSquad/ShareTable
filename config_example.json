@@ -1,0 +1,6 @@
+{
+  "config": {
+    "server_args": "--port 1010",
+    "table_folder_path": "./test/tables"
+  }
+}
